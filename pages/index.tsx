@@ -17,7 +17,8 @@ export default function Home() {
 
         <ol>
           <li><Link href="api/hello"><a>api/hello</a></Link></li>
-          <li><Link href="about"><a>about</a></Link></li>
+          <li><Link href="about"><a>about</a></Link></li> 
+          <li><Link href="login"><a>login</a></Link></li>
         </ol>
         
         <p className={styles.description}>
