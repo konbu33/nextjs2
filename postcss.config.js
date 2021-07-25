@@ -1,5 +1,5 @@
 // postcss.config.js
-default.exports = {
+module.exports = {
   plugins: {
     tailwindcss: {},
     autoprefixer: {},
